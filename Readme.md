@@ -7,3 +7,9 @@ This folder contains FASTAPI learning projects.
     - Update the book details
     - Creating the new book
     - deleting the book
+2. Advanced Book Shelf Project
+    - Validation Rules
+    - Added default values to some variables
+    - Update the data with validation check parameters
+    - Create new data with validation parameters
+   
